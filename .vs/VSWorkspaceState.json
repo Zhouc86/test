@@ -1,0 +1,30 @@
+{
+  "ActiveTargetSystem": "192.168.1.120",
+  "DevContainersInfoBarHidden": true,
+  "MRUPresetsPerTargetSystem": {
+    "本地计算机": {
+      "configure": "x64-debug"
+    }
+  },
+  "OutputFoldersPerTargetSystem": {
+    "本地计算机": [
+      "out\\build\\x64-debug",
+      "out\\install\\x64-debug",
+      "out\\build\\x64-release",
+      "out\\install\\x64-release",
+      "out\\build\\x86-debug",
+      "out\\install\\x86-debug",
+      "out\\build\\x86-release",
+      "out\\install\\x86-release"
+    ],
+    "192.168.1.120": [
+      "out\\-934728179\\build\\linux-debug",
+      "out\\-934728179\\install\\linux-debug"
+    ]
+  },
+  "ExpandedNodes": [
+    ""
+  ],
+  "SelectedNode": "\\CMakeUDP.cpp",
+  "PreviewInSolutionExplorer": false
+}

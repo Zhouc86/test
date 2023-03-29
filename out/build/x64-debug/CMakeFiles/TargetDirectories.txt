@@ -1,0 +1,3 @@
+C:/Users/雷蛇/source/repos/CMakeUDP/out/build/x64-debug/CMakeFiles/CMakeUDP.dir
+C:/Users/雷蛇/source/repos/CMakeUDP/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/雷蛇/source/repos/CMakeUDP/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
